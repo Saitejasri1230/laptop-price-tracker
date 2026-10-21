@@ -1,5 +1,5 @@
-.env
 
+.env
 
 .venv/
 __pycache__/
@@ -7,3 +7,14 @@ __pycache__/
 
 test_gemini.py
 test_price_research.py
+
+# Generated analysis reports and charts
+/data/laptop_price_comparison.png
+/data/laptop_price_trends.png
+/data/latest_laptop_prices.png
+/data/model_price_summary.csv
+/data/monthly_price_trends.csv
+/data/price_changes.csv
+/data/price_drop_alerts.csv
+/data/project_summary_report.csv
+/data/top_price_drops.csv
